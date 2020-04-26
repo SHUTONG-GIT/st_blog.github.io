@@ -28,7 +28,7 @@
               <li>思考</li>
               <li>幽默</li>
               <li>电影</li>
-              <li>羽毛球</li>
+              <li>游戏</li>
               <li>乐观派</li>
             </ul>
           </div>
