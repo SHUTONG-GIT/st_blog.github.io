@@ -6,13 +6,13 @@
           <img class="img-pig" src="../../assets/img/favicon.jpg" alt />
         </div>
         <div class="container-name">
-          <h1 class="h-name">burning pig</h1>
+          <h1 class="h-name">shu tong</h1>
         </div>
         <div class="container-text">
-          <p class="p-text">在校学生，性别男，软件技术专业，主攻前端，略懂Web后端</p>
+          <p class="p-text">在校学生，性别男，软件技术专业，主攻web前端，略懂后端</p>
         </div>
         <div class="container-address">
-          <span class="el-icon-map-location">江西吉安</span>
+          <span class="el-icon-map-location">江西瑞金</span>
         </div>
       </div>
     </transition>
